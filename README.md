@@ -74,8 +74,8 @@ Each chunking strategy has different advantages depending on the use case:
 ## Installation
 
 ```bash
-git clone <your-repository-url>
-cd homeAssignment
+git clone https://github.com/tomerCodeHub/document-ingestion-pipeline.git
+cd document-ingestion-pipeline
 
 python3 -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
